@@ -1,17 +1,22 @@
 .nav-bar li{
-	background-image: navimg.jpg;
 	list-style-type: none;
 	font-family: "Arial";
 	padding: 0 9px;
-    float: left;
     cursor: pointer;
+    float: left;
 }
 
 .nav-bar li+li { 
 	border-left: 2px solid
 }
 
-.nav-img {
-	height: 250px;
-	float:left;
+.octoink {
+	margin-left: 250px;
+	margin-right: auto;
+	width: 350px;
+	height: 350px;
+}
+
+body {
+
 }
