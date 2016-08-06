@@ -1,0 +1,133 @@
+ul.topnav {    
+	background-color: #46616c;     
+	list-style-type: none;     
+	margin: 0;     
+	padding: 0;     
+	overflow: hidden; 
+}  
+
+.topnav li {      
+	float: left;     
+}   
+
+ul.topnav li a{     
+	font-family: "Marker Felt";
+	display: inline-block;     
+	color: white;     
+	text-align: center;     
+	padding: 14px 16px;     
+	text-decoration: none;     
+	font-size: 19px;
+}
+
+.product-one {
+	padding: 25px;
+	margin: 10px;
+	border-style: solid;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-one {
+	height: 250px;
+	width: 250px;
+}
+
+.product-two {
+	padding: 25px;
+	margin: 10px;
+	border-style: solid;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-two {
+	height: 250px;
+	width: 250px;
+}
+
+.product-three {
+	border-style: solid;
+	padding: 25px;
+	margin: 10px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-three {
+	height: 250px;
+	width: 250px;
+}
+
+.product-four {
+	border-style: solid;
+	padding: 25px;
+	margin: 10px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-four {
+	height: 250px;
+	width: 250px;
+}
+
+.product-five {
+	border-style: solid;
+	padding: 25px;
+	margin: 10px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-five {
+	height: 250px;
+	width: 250px;
+}
+
+.product-six {
+	border-style: solid;
+	padding: 25px;
+	margin: 10px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-six {
+	height: 250px;
+	width: 250px;
+}
+
+.product-seven {
+	border-style: solid;
+	margin: 10px;
+	padding: 25px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-seven {
+	height: 250px;
+	width: 350px;
+}
+
+.product-eight {
+	border-style: solid;
+	padding: 25px;
+	margin: 10px;
+	display: inline-block;
+	float:left;
+}
+
+.productimg-eight {
+	height: 250px;
+	width: 250px;
+}
+
+body {
+	font-family: "Arial";
+	background-color: lightgrey;
+	padding: 10;
+	margin: 0 0 20px;
+}
+
