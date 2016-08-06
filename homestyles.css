@@ -56,12 +56,13 @@ body {
 .footdiv {
 	font-family: "Marker Felt";
 	color: white;         
-	padding: 14px 16px;        
+	padding: -10px;
+	margin: -10px;      
 	font-size: 15px;
 	background-color: #46616c;
-	position: absolute;
 	bottom: 0;
-	height: 20px;
+	height:	20px;
+	z-index: 0px;
 }
 
 /*.footr {
