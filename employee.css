@@ -1,0 +1,159 @@
+
+.wholepage {
+  width: 100%;
+  margin: auto;
+  min-height: 100%;
+}
+
+
+header {
+  text-decoration: none;
+  height: 73px;
+  text-align: center;
+}
+
+/*****************
+logo above nav bar
+*******************/
+
+.logoimage {
+   height: 100px;
+   width:  120px;
+   padding: -20px;
+   margin: -20px;
+   float: left;
+}
+
+.pageheader {
+  font-family: "Marker Felt";
+  margin: auto;
+  color: white;
+  letter-spacing: 2px;
+  display: inline-block;
+  text-align: justify;
+  margin-top: 6px;
+  font-size: 3em;
+}
+
+.pageheader h1 {
+  position: absolute;
+  text-align: center;
+}
+
+/*******************
+Nav Bar styling
+**********************/
+.navstyle {
+  padding: -10px;
+  margin: -10px;
+}
+
+ul.topnav {
+    background-color: #46616c;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.topnav li {
+    float: left;
+}
+ul.topnav li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: "Marker Felt";
+}
+
+/***********************
+Body styling
+************************/
+
+
+
+body {
+  font-family: "Arial";
+  text-decoration: none;
+  background-color: lightgray;
+}
+
+/******************
+Header styling
+********************/
+
+h1 {
+  text-align: left;
+  padding-left: 10px;
+}
+
+/******************
+pic styling
+********************/
+
+.empimage {
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  padding: auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+/*******************
+creating columns
+********************/
+
+.column-one {
+  float:left;
+  display: inline-block;
+  width: 20%;
+  height: 1000px;
+  padding-left: 10px;
+  font-stretch: 1px;
+  margin-right: 5px;
+}
+
+/*******************
+employee tag
+********************/
+
+.employee {
+  float: left;
+  display: inline-block;
+  width: 20%;
+  height: 100%;
+  padding: 25px;
+  margin: 5px;
+  background-color: white;
+  text-align: left;
+}
+
+/***Text***/
+
+h3, h4 {
+  line-height: 1px;
+}
+
+/****FOOTER*****/
+
+.footdiv {
+   font-family: "Marker Felt";
+   color: white;
+   padding: 14px 16px;
+   font-size: 15px;
+   background-color: #46616c ;
+   padding: -10px;
+   margin: -10px;
+   position: fixed;
+   bottom: 10px;
+   width:100%;
+   height:20px;
+}
+
+
+
+
+
